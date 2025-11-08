@@ -3,7 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    color: rgb(165, 71, 252);
+    color: rgb(140, 89, 187);
     text-align: center;
 }
 .projects{
@@ -15,5 +15,5 @@ h1 {
     margin: 10px;
     padding: 20px 10px;
     background: rgb(255, 255, 143);
-    border-radius: 25%;
+    border-radius: 15%;
 }
