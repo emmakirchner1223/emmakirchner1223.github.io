@@ -18,8 +18,8 @@ h1 {
     border-radius: 15%;
 }
 .project img{
-    width:300px;
-    height: 300px;
+    /* width:300px;
+    height: 300px; */
     margin: 10px;
     border: 2px solid rgb(140, 89, 187);
     display: block;
